@@ -1,5 +1,5 @@
 {
-  "appium": { "Nexus 4": {}, "Nexus 5": {}, "Nexus 6": {}, "Nexus 7": {}, "OnePlus 3": {}, "Galaxy S4": {}, "Samsung Galaxy S7": {}, "Samsung Galaxy S8": {}, "Samsung Galaxy S9": {}, "Samsung Galaxy S10": {}, "Samsung Galaxy S3": {}, "Samsung Galaxy S5": {}, "Google Pixel 4 XL": {}, "Google Pixel 3 XL": {}, "Google Pixel 2 XL": {}, "Google Pixel 3": {}, "Pixel 2": {}, "Pixel 3": {} },
+  "appium": { "Apple iPhone 11 Pro": {}, "Samsung Galaxy S22": {}, "Apple iPhone 14 Pro Max": {}, "Apple iPhone 8 Plus": {}, "Samsung Galaxy Note 3": {}, "Samsung Galaxy Note 2": {}, "Apple iPad": {}, "Samsung Galaxy Tab S3": {}, "Samsung Galaxy Tab S4": {}, "Apple iPhone 4": {}, "Apple iPhone 7": {}, "Apple iPhone 8": {}, "Apple iPhone 11": {}, "Apple iPad Mini": {}, "Nexus 4": {}, "Nexus 5": {}, "Nexus 6": {}, "Nexus 7": {}, "OnePlus 3": {}, "Galaxy S4": {}, "Samsung Galaxy S7": {}, "Samsung Galaxy S8": {}, "Samsung Galaxy S9": {}, "Samsung Galaxy S10": {}, "Samsung Galaxy S3": {}, "Samsung Galaxy S5": {}, "Google Pixel 4 XL": {}, "Google Pixel 3 XL": {}, "Google Pixel 2 XL": {}, "Google Pixel 3": {}, "Pixel 2": {}, "Pixel 3": {} },
   "others": {
     "Desktop": {
       "width": 414,
